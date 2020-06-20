@@ -1,7 +1,7 @@
 from ubuntu:latest
 
 
-MAINTAINER AKOCAK <altiakocak@gmail.com>
+MAINTAINER AKOCAK <mustafaakocakk1@gmail.com>
 
 RUN apt-get update && apt-get install -y apache2
 
